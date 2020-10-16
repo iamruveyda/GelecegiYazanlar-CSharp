@@ -32,4 +32,4 @@ Geleceği Yazanlar Ekibi
 
 <hr>
 
-## [101]()
+## [101](https://github.com/iamruveyda/GelecegiYazanlar-CSharp/tree/main/101)
