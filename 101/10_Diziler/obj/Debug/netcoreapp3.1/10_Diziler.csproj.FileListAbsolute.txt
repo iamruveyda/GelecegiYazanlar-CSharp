@@ -1,0 +1,12 @@
+C:\Users\ruvey\source\repos\CSharp 101\10_Diziler\bin\Debug\netcoreapp3.1\10_Diziler.exe
+C:\Users\ruvey\source\repos\CSharp 101\10_Diziler\bin\Debug\netcoreapp3.1\10_Diziler.deps.json
+C:\Users\ruvey\source\repos\CSharp 101\10_Diziler\bin\Debug\netcoreapp3.1\10_Diziler.runtimeconfig.json
+C:\Users\ruvey\source\repos\CSharp 101\10_Diziler\bin\Debug\netcoreapp3.1\10_Diziler.runtimeconfig.dev.json
+C:\Users\ruvey\source\repos\CSharp 101\10_Diziler\bin\Debug\netcoreapp3.1\10_Diziler.dll
+C:\Users\ruvey\source\repos\CSharp 101\10_Diziler\bin\Debug\netcoreapp3.1\10_Diziler.pdb
+C:\Users\ruvey\source\repos\CSharp 101\10_Diziler\obj\Debug\netcoreapp3.1\10_Diziler.csproj.CoreCompileInputs.cache
+C:\Users\ruvey\source\repos\CSharp 101\10_Diziler\obj\Debug\netcoreapp3.1\10_Diziler.AssemblyInfoInputs.cache
+C:\Users\ruvey\source\repos\CSharp 101\10_Diziler\obj\Debug\netcoreapp3.1\10_Diziler.AssemblyInfo.cs
+C:\Users\ruvey\source\repos\CSharp 101\10_Diziler\obj\Debug\netcoreapp3.1\10_Diziler.dll
+C:\Users\ruvey\source\repos\CSharp 101\10_Diziler\obj\Debug\netcoreapp3.1\10_Diziler.pdb
+C:\Users\ruvey\source\repos\CSharp 101\10_Diziler\obj\Debug\netcoreapp3.1\10_Diziler.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\ruvey\source\repos\CSharp\02_DegiskenlereDegerAtamak\bin\Debug\netcoreapp3.1\02_DegiskenlereDegerAtamak.exe
+C:\Users\ruvey\source\repos\CSharp\02_DegiskenlereDegerAtamak\bin\Debug\netcoreapp3.1\02_DegiskenlereDegerAtamak.deps.json
+C:\Users\ruvey\source\repos\CSharp\02_DegiskenlereDegerAtamak\bin\Debug\netcoreapp3.1\02_DegiskenlereDegerAtamak.runtimeconfig.json
+C:\Users\ruvey\source\repos\CSharp\02_DegiskenlereDegerAtamak\bin\Debug\netcoreapp3.1\02_DegiskenlereDegerAtamak.runtimeconfig.dev.json
+C:\Users\ruvey\source\repos\CSharp\02_DegiskenlereDegerAtamak\bin\Debug\netcoreapp3.1\02_DegiskenlereDegerAtamak.dll
+C:\Users\ruvey\source\repos\CSharp\02_DegiskenlereDegerAtamak\bin\Debug\netcoreapp3.1\02_DegiskenlereDegerAtamak.pdb
+C:\Users\ruvey\source\repos\CSharp\02_DegiskenlereDegerAtamak\obj\Debug\netcoreapp3.1\02_DegiskenlereDegerAtamak.csprojAssemblyReference.cache
+C:\Users\ruvey\source\repos\CSharp\02_DegiskenlereDegerAtamak\obj\Debug\netcoreapp3.1\02_DegiskenlereDegerAtamak.csproj.CoreCompileInputs.cache
+C:\Users\ruvey\source\repos\CSharp\02_DegiskenlereDegerAtamak\obj\Debug\netcoreapp3.1\02_DegiskenlereDegerAtamak.AssemblyInfoInputs.cache
+C:\Users\ruvey\source\repos\CSharp\02_DegiskenlereDegerAtamak\obj\Debug\netcoreapp3.1\02_DegiskenlereDegerAtamak.AssemblyInfo.cs
+C:\Users\ruvey\source\repos\CSharp\02_DegiskenlereDegerAtamak\obj\Debug\netcoreapp3.1\02_DegiskenlereDegerAtamak.dll
+C:\Users\ruvey\source\repos\CSharp\02_DegiskenlereDegerAtamak\obj\Debug\netcoreapp3.1\02_DegiskenlereDegerAtamak.pdb
+C:\Users\ruvey\source\repos\CSharp\02_DegiskenlereDegerAtamak\obj\Debug\netcoreapp3.1\02_DegiskenlereDegerAtamak.genruntimeconfig.cache

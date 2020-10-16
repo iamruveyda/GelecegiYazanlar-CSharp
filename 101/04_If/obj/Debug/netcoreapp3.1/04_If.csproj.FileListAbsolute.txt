@@ -1,0 +1,25 @@
+C:\Users\ruvey\source\repos\CSharp\04_If\bin\Debug\netcoreapp3.1\04_If.exe
+C:\Users\ruvey\source\repos\CSharp\04_If\bin\Debug\netcoreapp3.1\04_If.deps.json
+C:\Users\ruvey\source\repos\CSharp\04_If\bin\Debug\netcoreapp3.1\04_If.runtimeconfig.json
+C:\Users\ruvey\source\repos\CSharp\04_If\bin\Debug\netcoreapp3.1\04_If.runtimeconfig.dev.json
+C:\Users\ruvey\source\repos\CSharp\04_If\bin\Debug\netcoreapp3.1\04_If.dll
+C:\Users\ruvey\source\repos\CSharp\04_If\bin\Debug\netcoreapp3.1\04_If.pdb
+C:\Users\ruvey\source\repos\CSharp\04_If\obj\Debug\netcoreapp3.1\04_If.csproj.CoreCompileInputs.cache
+C:\Users\ruvey\source\repos\CSharp\04_If\obj\Debug\netcoreapp3.1\04_If.AssemblyInfoInputs.cache
+C:\Users\ruvey\source\repos\CSharp\04_If\obj\Debug\netcoreapp3.1\04_If.AssemblyInfo.cs
+C:\Users\ruvey\source\repos\CSharp\04_If\obj\Debug\netcoreapp3.1\04_If.dll
+C:\Users\ruvey\source\repos\CSharp\04_If\obj\Debug\netcoreapp3.1\04_If.pdb
+C:\Users\ruvey\source\repos\CSharp\04_If\obj\Debug\netcoreapp3.1\04_If.genruntimeconfig.cache
+C:\Users\ruvey\source\repos\CSharp 101\04_If\bin\Debug\netcoreapp3.1\04_If.exe
+C:\Users\ruvey\source\repos\CSharp 101\04_If\bin\Debug\netcoreapp3.1\04_If.deps.json
+C:\Users\ruvey\source\repos\CSharp 101\04_If\bin\Debug\netcoreapp3.1\04_If.runtimeconfig.json
+C:\Users\ruvey\source\repos\CSharp 101\04_If\bin\Debug\netcoreapp3.1\04_If.runtimeconfig.dev.json
+C:\Users\ruvey\source\repos\CSharp 101\04_If\bin\Debug\netcoreapp3.1\04_If.dll
+C:\Users\ruvey\source\repos\CSharp 101\04_If\bin\Debug\netcoreapp3.1\04_If.pdb
+C:\Users\ruvey\source\repos\CSharp 101\04_If\obj\Debug\netcoreapp3.1\04_If.csprojAssemblyReference.cache
+C:\Users\ruvey\source\repos\CSharp 101\04_If\obj\Debug\netcoreapp3.1\04_If.csproj.CoreCompileInputs.cache
+C:\Users\ruvey\source\repos\CSharp 101\04_If\obj\Debug\netcoreapp3.1\04_If.AssemblyInfoInputs.cache
+C:\Users\ruvey\source\repos\CSharp 101\04_If\obj\Debug\netcoreapp3.1\04_If.AssemblyInfo.cs
+C:\Users\ruvey\source\repos\CSharp 101\04_If\obj\Debug\netcoreapp3.1\04_If.dll
+C:\Users\ruvey\source\repos\CSharp 101\04_If\obj\Debug\netcoreapp3.1\04_If.pdb
+C:\Users\ruvey\source\repos\CSharp 101\04_If\obj\Debug\netcoreapp3.1\04_If.genruntimeconfig.cache

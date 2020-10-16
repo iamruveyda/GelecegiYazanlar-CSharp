@@ -1,0 +1,13 @@
+C:\Users\ruvey\source\repos\CSharp\03_TanimlandiklariYerlereGöreDegiskenTurleri\bin\Debug\netcoreapp3.1\03_TanimlandiklariYerlereGöreDegiskenTurleri.exe
+C:\Users\ruvey\source\repos\CSharp\03_TanimlandiklariYerlereGöreDegiskenTurleri\bin\Debug\netcoreapp3.1\03_TanimlandiklariYerlereGöreDegiskenTurleri.deps.json
+C:\Users\ruvey\source\repos\CSharp\03_TanimlandiklariYerlereGöreDegiskenTurleri\bin\Debug\netcoreapp3.1\03_TanimlandiklariYerlereGöreDegiskenTurleri.runtimeconfig.json
+C:\Users\ruvey\source\repos\CSharp\03_TanimlandiklariYerlereGöreDegiskenTurleri\bin\Debug\netcoreapp3.1\03_TanimlandiklariYerlereGöreDegiskenTurleri.runtimeconfig.dev.json
+C:\Users\ruvey\source\repos\CSharp\03_TanimlandiklariYerlereGöreDegiskenTurleri\bin\Debug\netcoreapp3.1\03_TanimlandiklariYerlereGöreDegiskenTurleri.dll
+C:\Users\ruvey\source\repos\CSharp\03_TanimlandiklariYerlereGöreDegiskenTurleri\bin\Debug\netcoreapp3.1\03_TanimlandiklariYerlereGöreDegiskenTurleri.pdb
+C:\Users\ruvey\source\repos\CSharp\03_TanimlandiklariYerlereGöreDegiskenTurleri\obj\Debug\netcoreapp3.1\03_TanimlandiklariYerlereGöreDegiskenTurleri.csprojAssemblyReference.cache
+C:\Users\ruvey\source\repos\CSharp\03_TanimlandiklariYerlereGöreDegiskenTurleri\obj\Debug\netcoreapp3.1\03_TanimlandiklariYerlereGöreDegiskenTurleri.csproj.CoreCompileInputs.cache
+C:\Users\ruvey\source\repos\CSharp\03_TanimlandiklariYerlereGöreDegiskenTurleri\obj\Debug\netcoreapp3.1\03_TanimlandiklariYerlereGöreDegiskenTurleri.AssemblyInfoInputs.cache
+C:\Users\ruvey\source\repos\CSharp\03_TanimlandiklariYerlereGöreDegiskenTurleri\obj\Debug\netcoreapp3.1\03_TanimlandiklariYerlereGöreDegiskenTurleri.AssemblyInfo.cs
+C:\Users\ruvey\source\repos\CSharp\03_TanimlandiklariYerlereGöreDegiskenTurleri\obj\Debug\netcoreapp3.1\03_TanimlandiklariYerlereGöreDegiskenTurleri.dll
+C:\Users\ruvey\source\repos\CSharp\03_TanimlandiklariYerlereGöreDegiskenTurleri\obj\Debug\netcoreapp3.1\03_TanimlandiklariYerlereGöreDegiskenTurleri.pdb
+C:\Users\ruvey\source\repos\CSharp\03_TanimlandiklariYerlereGöreDegiskenTurleri\obj\Debug\netcoreapp3.1\03_TanimlandiklariYerlereGöreDegiskenTurleri.genruntimeconfig.cache

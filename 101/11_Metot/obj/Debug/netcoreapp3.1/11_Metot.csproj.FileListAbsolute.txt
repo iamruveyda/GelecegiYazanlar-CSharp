@@ -1,0 +1,12 @@
+C:\Users\ruvey\source\repos\CSharp 101\11_Metot\obj\Debug\netcoreapp3.1\11_Metot.csproj.CoreCompileInputs.cache
+C:\Users\ruvey\source\repos\CSharp 101\11_Metot\obj\Debug\netcoreapp3.1\11_Metot.AssemblyInfoInputs.cache
+C:\Users\ruvey\source\repos\CSharp 101\11_Metot\obj\Debug\netcoreapp3.1\11_Metot.AssemblyInfo.cs
+C:\Users\ruvey\source\repos\CSharp 101\11_Metot\bin\Debug\netcoreapp3.1\11_Metot.exe
+C:\Users\ruvey\source\repos\CSharp 101\11_Metot\bin\Debug\netcoreapp3.1\11_Metot.deps.json
+C:\Users\ruvey\source\repos\CSharp 101\11_Metot\bin\Debug\netcoreapp3.1\11_Metot.runtimeconfig.json
+C:\Users\ruvey\source\repos\CSharp 101\11_Metot\bin\Debug\netcoreapp3.1\11_Metot.runtimeconfig.dev.json
+C:\Users\ruvey\source\repos\CSharp 101\11_Metot\bin\Debug\netcoreapp3.1\11_Metot.dll
+C:\Users\ruvey\source\repos\CSharp 101\11_Metot\bin\Debug\netcoreapp3.1\11_Metot.pdb
+C:\Users\ruvey\source\repos\CSharp 101\11_Metot\obj\Debug\netcoreapp3.1\11_Metot.dll
+C:\Users\ruvey\source\repos\CSharp 101\11_Metot\obj\Debug\netcoreapp3.1\11_Metot.pdb
+C:\Users\ruvey\source\repos\CSharp 101\11_Metot\obj\Debug\netcoreapp3.1\11_Metot.genruntimeconfig.cache

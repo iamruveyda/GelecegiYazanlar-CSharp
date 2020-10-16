@@ -1,0 +1,13 @@
+C:\Users\ruvey\source\repos\CSharp\01_Sabitler\bin\Debug\netcoreapp3.1\01_Sabitler.exe
+C:\Users\ruvey\source\repos\CSharp\01_Sabitler\bin\Debug\netcoreapp3.1\01_Sabitler.deps.json
+C:\Users\ruvey\source\repos\CSharp\01_Sabitler\bin\Debug\netcoreapp3.1\01_Sabitler.runtimeconfig.json
+C:\Users\ruvey\source\repos\CSharp\01_Sabitler\bin\Debug\netcoreapp3.1\01_Sabitler.runtimeconfig.dev.json
+C:\Users\ruvey\source\repos\CSharp\01_Sabitler\bin\Debug\netcoreapp3.1\01_Sabitler.dll
+C:\Users\ruvey\source\repos\CSharp\01_Sabitler\bin\Debug\netcoreapp3.1\01_Sabitler.pdb
+C:\Users\ruvey\source\repos\CSharp\01_Sabitler\obj\Debug\netcoreapp3.1\01_Sabitler.csprojAssemblyReference.cache
+C:\Users\ruvey\source\repos\CSharp\01_Sabitler\obj\Debug\netcoreapp3.1\01_Sabitler.csproj.CoreCompileInputs.cache
+C:\Users\ruvey\source\repos\CSharp\01_Sabitler\obj\Debug\netcoreapp3.1\01_Sabitler.AssemblyInfoInputs.cache
+C:\Users\ruvey\source\repos\CSharp\01_Sabitler\obj\Debug\netcoreapp3.1\01_Sabitler.AssemblyInfo.cs
+C:\Users\ruvey\source\repos\CSharp\01_Sabitler\obj\Debug\netcoreapp3.1\01_Sabitler.dll
+C:\Users\ruvey\source\repos\CSharp\01_Sabitler\obj\Debug\netcoreapp3.1\01_Sabitler.pdb
+C:\Users\ruvey\source\repos\CSharp\01_Sabitler\obj\Debug\netcoreapp3.1\01_Sabitler.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\ruvey\source\repos\CSharp 101\06_For\bin\Debug\netcoreapp3.1\06_For.exe
+C:\Users\ruvey\source\repos\CSharp 101\06_For\bin\Debug\netcoreapp3.1\06_For.deps.json
+C:\Users\ruvey\source\repos\CSharp 101\06_For\bin\Debug\netcoreapp3.1\06_For.runtimeconfig.json
+C:\Users\ruvey\source\repos\CSharp 101\06_For\bin\Debug\netcoreapp3.1\06_For.runtimeconfig.dev.json
+C:\Users\ruvey\source\repos\CSharp 101\06_For\bin\Debug\netcoreapp3.1\06_For.dll
+C:\Users\ruvey\source\repos\CSharp 101\06_For\bin\Debug\netcoreapp3.1\06_For.pdb
+C:\Users\ruvey\source\repos\CSharp 101\06_For\obj\Debug\netcoreapp3.1\06_For.csproj.CoreCompileInputs.cache
+C:\Users\ruvey\source\repos\CSharp 101\06_For\obj\Debug\netcoreapp3.1\06_For.AssemblyInfoInputs.cache
+C:\Users\ruvey\source\repos\CSharp 101\06_For\obj\Debug\netcoreapp3.1\06_For.AssemblyInfo.cs
+C:\Users\ruvey\source\repos\CSharp 101\06_For\obj\Debug\netcoreapp3.1\06_For.dll
+C:\Users\ruvey\source\repos\CSharp 101\06_For\obj\Debug\netcoreapp3.1\06_For.pdb
+C:\Users\ruvey\source\repos\CSharp 101\06_For\obj\Debug\netcoreapp3.1\06_For.genruntimeconfig.cache
